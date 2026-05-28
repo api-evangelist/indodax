@@ -1,0 +1,32 @@
+aid: indodax
+name: Indodax
+description: "Trade your Bitcoin and other assets with rupiah"
+url: https://github.com/btcid/indodax-official-api-docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cryptocurrency"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cryptocurrency
+  - Public APIs
+apis:
+  - name: Indodax
+    description: "Trade your Bitcoin and other assets with rupiah"
+    humanURL: https://github.com/btcid/indodax-official-api-docs
+    baseURL: https://github.com/btcid/indodax-official-api-docs
+    tags:
+      - Cryptocurrency
+    properties:
+      - type: Documentation
+        url: https://github.com/btcid/indodax-official-api-docs
+common:
+  - type: Website
+    url: https://github.com/btcid/indodax-official-api-docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
