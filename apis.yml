@@ -27,6 +27,8 @@ common:
     url: https://github.com/btcid/indodax-official-api-docs
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://blog.indodax.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
