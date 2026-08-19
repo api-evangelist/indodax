@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/indodax.pn
 name: Indodax
 description: "Trade your Bitcoin and other assets with rupiah"
 url: https://github.com/btcid/indodax-official-api-docs
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
