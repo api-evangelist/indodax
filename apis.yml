@@ -39,7 +39,6 @@ apis:
   - name: Indodax
     description: "Trade your Bitcoin and other assets with rupiah"
     humanURL: https://github.com/btcid/indodax-official-api-docs
-    baseURL: https://github.com/btcid/indodax-official-api-docs
     tags:
       - Cryptocurrency
     properties:
